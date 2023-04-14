@@ -1,15 +1,14 @@
 #include <stdio.h>
 
 /**
- * main - code that prints out the authors name
- * return: int
+ *main - Entry point
+ *
+ *Description: 'this program prints out the name of the authors'
+ *Return: Always (0) success
  */
 
-int main()
+int main(void)
 {
-    char *author1 = "Oluwadunsin Abisuwa";
-    char *author2 = "Benson Odhiambo";
-
-    printf("The authors of this project are %s and %s\n", author1, author2);
-    return (0);
+	printf("The authors of this project are Dunsin Abisuwa and Benson Odhiambon");
+	return (0);
 }
