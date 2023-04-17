@@ -9,6 +9,6 @@
 
 int main(void)
 {
-	printf("The authors of this project are Dunsin Abisuwa and Benson Odhiambon");
+	printf("The authors of this project are Dunsin Abisuwa and Benson Odhiambon\n");
 	return (0);
 }
